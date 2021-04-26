@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Base", "Base\Base.csproj", "{CE61A09D-4D0D-46A4-B895-71BB08E7ED1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFLearns", "WPFLearns\WPFLearns.csproj", "{92372DCD-6449-45E4-96AC-9DF3DC2F9A5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceBase", "WcfServiceBase\WcfServiceBase.csproj", "{AF936F99-4F4C-43B8-89CD-797414CA26EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE61A09D-4D0D-46A4-B895-71BB08E7ED1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE61A09D-4D0D-46A4-B895-71BB08E7ED1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE61A09D-4D0D-46A4-B895-71BB08E7ED1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE61A09D-4D0D-46A4-B895-71BB08E7ED1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92372DCD-6449-45E4-96AC-9DF3DC2F9A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92372DCD-6449-45E4-96AC-9DF3DC2F9A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92372DCD-6449-45E4-96AC-9DF3DC2F9A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92372DCD-6449-45E4-96AC-9DF3DC2F9A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF936F99-4F4C-43B8-89CD-797414CA26EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF936F99-4F4C-43B8-89CD-797414CA26EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF936F99-4F4C-43B8-89CD-797414CA26EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF936F99-4F4C-43B8-89CD-797414CA26EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2694BC2B-F952-44D2-98D6-FD235C3C3BDF}
+	EndGlobalSection
+EndGlobal
